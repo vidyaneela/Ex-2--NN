@@ -1,6 +1,6 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>Name:Vidya Neela M</H3>
+<H3>Register no.212221230120</H3>
+<H3>Date:21.03.2024</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
@@ -49,11 +49,6 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-```
-Name:Vidya Neela M
-Reg no:212221230120
-
-```
 ```
 import numpy as np                                                     
 import pandas as pd                                                     
